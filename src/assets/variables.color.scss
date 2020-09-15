@@ -1,0 +1,214 @@
+/* Variables (Color) */
+
+/* Green Color Scheme */
+$jnd-base-color: #00C473; /* rgb(0, 196, 115) */
+$jnd-base-opac045-color: rgba(0, 196, 115, 0.45);
+$jnd-base-opac025-color: rgba(0, 196, 115, 0.25);
+$jnd-base-opac012-color: rgba(0, 196, 115, 0.12);
+$jnd-base-opac008-color: rgba(0, 196, 115, 0.08);
+
+$jnd-base-hover-color: #00B474; /* rgb(0, 180, 116) */
+$jnd-base-hover-opac095-color: rgba(0, 180, 116, 0.95);
+
+$jnd-base-border-opac095-color: rgba(0, 192, 121, 0.95);
+
+$jnd-base-focus-color: #8CC3BE; /* rgb(140, 195, 190) */
+$jnd-base-active-color: #00A66D; /* rgb(0, 166, 109) */
+$jnd-base-pressed-color: #96CFBA; /* rgb(150, 207, 186) */
+
+$jnd-base-self-deep-color: rgba(20, 55, 50, 0.6);
+$jnd-base-self-content-color: #E0F8EE; /* rgb(224,248,238) */
+$jnd-base-self-dark-color: #3C5752; /* rgb(60, 87, 82) */
+
+$jnd-base-link-color: #00CA7C; /* rgb(0, 202, 124) */
+
+$jnd-text-color-base:#333;
+$jnd-text-color-888:#888;
+$jnd-text-color-666:#666;
+$jnd-text-color-ccc:#ccc;
+$jnd-text-color-eee:#eee;
+
+$color-white: #FFFFFF;
+$color-white-opac100: rgba(255, 255, 255, 1);
+$color-white-opac095: rgba(255, 255, 255, 0.95);
+$color-white-opac085: rgba(255, 255, 255, 0.85);
+$color-white-opac075: rgba(255, 255, 255, 0.75);
+$color-white-opac065: rgba(255, 255, 255, 0.65);
+$color-white-opac050: rgba(255, 255, 255, 0.5);
+$color-white-opac045: rgba(255, 255, 255, 0.45);
+$color-white-opac035: rgba(255, 255, 255, 0.35);
+$color-white-opac025: rgba(255, 255, 255, 0.25);
+$color-white-opac015: rgba(255, 255, 255, 0.15);
+$color-white-opac012: rgba(255, 255, 255, 0.12);
+$color-white-opac008: rgba(255, 255, 255, 0.08);
+$color-white-opac004: rgba(255, 255, 255, 0.04);
+$color-white-opac000: rgba(255, 255, 255, 0);
+
+$color-todo-done: #1CBE8E;
+
+$color-alert: #F82323; // #E94E24;
+$color-alert-hover: #E03211;
+$color-alert-vivid: #FF5B49; // #FF3B00;
+
+
+$color-notification: #FF5B49;
+
+$color-yellow: #F9BC02;
+
+$color-darkgray: #6C757C;
+
+$color-skyblue: #0DC9E5;
+
+$color-blue: #3A89FF;
+
+$color-confirm: #3A89FF;
+
+$color-confirm-opac085: rgba(58, 137, 255, 0.85);
+$color-confirm-opac075: rgba(58, 137, 255, 0.75);
+$color-confirm-opac045: rgba(58, 137, 255, 0.45);
+$color-confirm-opac035: rgba(58, 137, 255, 0.35);
+$color-confirm-opac030: rgba(58, 137, 255, 0.3);
+$color-confirm-opac025: rgba(58, 137, 255, 0.25);
+$color-confirm-opac012: rgba(58, 137, 255, 0.12);
+
+$color-confirm-hover: #1370F2; // alternative #005BF2
+$color-confirm-hover-opac095: rgba(19, 112, 242, 0.95);
+
+$color-confirm-border-opac095: rgba(37, 122, 242, 0.95);
+
+$color-confirm-active: #005BF2;
+
+$color-confirm-focus: #87B8E2; // alternative #3195F5
+
+$color-confirm-pressed: #A8C2D6;
+
+$color-confirm-self: rgb(65, 82, 105); // rgb(73, 85, 95); | rgb(65, 82, 105); | rgb(30, 55, 90); | #2A5694;
+
+$color-confirm-link: #438fff;
+
+$color-confirm-self-deep: rgba(46, 53, 68, 0.6); // rgba(46, 53, 68, 0.6); | #193F74; | #1F4881;
+
+$color-confirm-self-deep-opac100: rgb(46, 53, 68);
+
+$color-confirm-self-dark: #256dd7; //mention badge bg
+
+/* TBD */
+$color-confirm-light: #3195F5;
+
+/* drive contents-item selected color */
+$color-confirm-selected-light: #D3EAFF; /* rgb(211, 234, 255) */
+
+$color-confirm-selected-dark: #3F5B83; /* rgb(63, 91, 131) */
+
+
+
+
+/* Dark Theme */
+$color-dark-blue-base: #41484D;
+$color-dark-blue-light: rgb(80, 86, 91); //#50575A; // alternative : #4E565C
+$color-dark-blue-deep: #333A3F;
+$color-dark-blue-deep-focus: #2F363C;
+$color-dark-blue-deep-active: #293036;
+
+$color-dark-blue-deep-light: #363E42; /* rgb(54, 62, 66) : 드라이브 그리드 뷰 아이템 BG 컬러 */
+
+$color-dark-blue-light-opac095: rgba(80, 87, 90, 0.95);
+$color-dark-blue-light-opac090: rgba(80, 87, 90, 0.9);
+
+$color-dark-blue-base-opac090: rgba(65, 72, 77, 0.9);
+
+$color-dark-blue-deep-active-opac090: rgba(41, 48, 54, 0.9);
+$color-dark-blue-deep-active-opac085: rgba(41, 48, 54, 0.85);
+$color-dark-blue-deep-active-opac075: rgba(41, 48, 54, 0.75);
+$color-dark-blue-deep-active-opac065: rgba(41, 48, 54, 0.65);
+$color-dark-blue-deep-active-opac060: rgba(41, 48, 54, 0.60);
+$color-dark-blue-deep-active-opac055: rgba(41, 48, 54, 0.55);
+$color-dark-blue-deep-active-opac050: rgba(41, 48, 54, 0.5);
+$color-dark-blue-deep-active-opac045: rgba(41, 48, 54, 0.45);
+$color-dark-blue-deep-active-opac040: rgba(41, 48, 54, 0.40);
+$color-dark-blue-deep-active-opac035: rgba(41, 48, 54, 0.35);
+$color-dark-blue-deep-active-opac025: rgba(41, 48, 54, 0.25);
+$color-dark-blue-deep-active-opac015: rgba(41, 48, 54, 0.15);
+$color-dark-blue-deep-active-opac008: rgba(41, 48, 54, 0.08);
+
+$color-mono-dark: rgb(36, 41, 45);
+$color-mono-dark-opac090: rgba(36, 41, 45, 0.9);
+$color-mono-dark-opac045: rgba(36, 41, 45, 0.45);
+
+$color-mono-252: rgb(252, 252, 252);
+$color-mono-250: rgb(250, 250, 250);
+$color-mono-248: rgb(248, 248, 248);
+$color-mono-245: rgb(245, 245, 245);
+$color-mono-243: rgb(243, 243, 243);
+$color-mono-241: rgb(241, 241, 241);
+$color-mono-237: rgb(237, 237, 237);
+$color-mono-229: rgb(229, 229, 229);
+$color-mono-222: rgb(222, 222, 222);
+$color-mono-212: rgb(212, 212, 212);
+$color-mono-204: rgb(204, 204, 204);
+$color-mono-202: rgb(202, 202, 202);
+$color-mono-188: rgb(188, 188, 188);
+$color-mono-150: rgb(150, 150, 150);
+$color-mono-140: rgb(140, 140, 140);
+$color-mono-130: rgb(130, 130, 130);
+
+$color-mono-125: rgb(125, 125, 125);
+$color-mono-100: rgb(100, 100, 100);
+$color-mono-080: rgb(80, 80, 80);
+$color-mono-066: rgb(66, 66, 66);
+$color-mono-064: rgb(64, 64, 64);
+$color-mono-050: rgb(50, 50, 50);
+$color-mono-041: rgb(41, 41, 41);
+$color-mono-035: rgb(35, 35, 35);
+
+$color-mono-252-opac090: rgba(252, 252, 252, 0.9);
+
+$color-mono-030-opac015: rgba(30, 30, 30, 0.15);
+$color-mono-000-opac085: rgba(0, 0, 0, 0.85);
+$color-mono-000-opac075: rgba(0, 0, 0, 0.75);
+$color-mono-000-opac065: rgba(0, 0, 0, 0.65);
+$color-mono-000-opac055: rgba(0, 0, 0, 0.55);
+$color-mono-000-opac045: rgba(0, 0, 0, 0.45);
+$color-mono-000-opac040: rgba(0, 0, 0, 0.40);
+$color-mono-000-opac035: rgba(0, 0, 0, 0.35);
+$color-mono-000-opac025: rgba(0, 0, 0, 0.25);
+$color-mono-000-opac015: rgba(0, 0, 0, 0.15);
+$color-mono-000-opac012: rgba(0, 0, 0, 0.12);
+$color-mono-000-opac010: rgba(0, 0, 0, 0.10);
+$color-mono-000-opac008: rgba(0, 0, 0, 0.08);
+$color-mono-000-opac004: rgba(0, 0, 0, 0.04);
+
+
+$color-auth-member-light: #EECFA0;
+$color-auth-member-deep: #BC8737;
+$color-auth-member-vivid: #DD781F;
+
+$color-auth-associated-light: #C7D58E;
+$color-auth-associated-deep: #799D2C;
+$color-auth-associated-vivid: #6D9A0B;
+
+$color-auth-admin-light: #B6BAE0;
+$color-auth-admin-deep: #585FA8;
+$color-auth-admin-vivid: #6259C1;
+
+$color-auth-owner-light: #87BDDC;
+$color-auth-owner-deep: #0075B9;
+$color-auth-owner-vivid: #2E79A8;
+
+$color-auth-inactive-light: rgb(180, 180, 180);
+$color-auth-inactive-deep: rgb(128, 128, 128);
+$color-auth-inactive-vivid: rgb(82, 82, 82);
+
+$color-target-content: #FFF2D2;
+$color-target-content-opac035: rgba(249, 189, 0, 0.35);
+$color-target-content-opac025: rgba(249, 189, 0, 0.25);
+
+$color-self-content: #ECF6FF;
+$color-self-content-dark-vivid: #1554BC;
+
+$box-shadow-mono-000-opac012: 0 0 2px 0 rgba(0, 0, 0, 0.12);
+
+$color-static-transparent: transparent;
+$color-static-inherit: transparent;
+
+$color-num-int-001: 1;
